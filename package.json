@@ -26,11 +26,16 @@
     "apollo",
     "graphql"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfredlopez/use-vue-hooks.git"
+  },
   "author": {
     "name": "Wilfred Lopez",
+    "email": "cubamc@gmail.com",
     "url": "https://wilfredlopez.net"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "rimraf": "^3.0.2",
     "typescript": "^4.0.3"
